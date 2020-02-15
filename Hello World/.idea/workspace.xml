@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="612442f5-2b59-4b31-8a3d-b5eb446852f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tipe_Data/Tipe_Data.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,10 +99,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="187" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1581780828906" />
-    <state x="65" y="91" width="1225" height="555" key="new project wizard" timestamp="1581781149528">
+    <state x="65" y="91" width="1225" height="555" key="new project wizard" timestamp="1581782742516">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="65" y="91" width="1225" height="555" key="new project wizard/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1581781149528" />
+    <state x="65" y="91" width="1225" height="555" key="new project wizard/0.0.1366.728/1366.0.1366.768@0.0.1366.728" timestamp="1581782742516" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581779501678">
       <screen x="0" y="0" width="2732" height="728" />
     </state>
